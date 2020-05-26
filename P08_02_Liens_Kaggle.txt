@@ -1,0 +1,10 @@
+Les liens vers kernel :
+
+Le kernel Kaggle de l’approche avec l’outil PyCaret est disponible ici : 
+https://www.kaggle.com/doubiani/trends-pycaret-training-inference-doubiani
+
+Le kernel Kaggle de l’approche Deep Learning est disponible ici : 
+https://www.kaggle.com/doubiani/neuroimaging-in-depth-understanding-eda-doubiani
+
+Le kernel Kaggle de l’approche Algorithme Génétique est disponible ici :
+https://www.kaggle.com/doubiani/gplearn-genetic-algorithm-doubiani
