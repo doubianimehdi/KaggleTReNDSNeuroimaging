@@ -1,0 +1,2 @@
+# KaggleTReNDSNeuroimaging
+Rendez-vous sur le site de Kaggle et choisissez la compétition qui vous intéresse. Vous êtes libre de votre choix. Vous devrez participer à la compétition dans la mesure du possible, ou en tout cas obtenir des résultats mesurables. Vous passerez par toutes les étapes de l’analyse => récupération, nettoyage des données, analyse exploratoire, création de plusieurs modèles et mesure de leurs performances, etc. Vous participerez à une compétition réelle et en cours.
